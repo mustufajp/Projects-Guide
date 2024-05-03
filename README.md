@@ -15,7 +15,7 @@ I've listed some of the data analytics projects I've worked on. While this list 
 
 Created a dashboard for Google Analytics using Looker Studio.
 
-- Google Analytics Report: [View Dashboard](https://lookerstudio.google.com/reporting/649b2997-023c-44b7-bad8-d38dc5602381)
+- Google Analytics Report: [View Dashboard (JP Version)](https://lookerstudio.google.com/reporting/649b2997-023c-44b7-bad8-d38dc5602381)
 
 ### SQL
 
